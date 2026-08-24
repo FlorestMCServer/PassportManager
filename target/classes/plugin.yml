@@ -1,5 +1,5 @@
 name: PassportManager
-version: '1.0'
+version: '2.0'
 main: ru.florestdev.passportManager.PassportManager
 api-version: '1.21'
 prefix: PassportManager
@@ -11,7 +11,7 @@ softdepend: [MarriageMaster]
 commands:
   passport:
     description: Основная команда управления паспортами.
-    usage: /<command> [request|accept|give|get|reload]
+    usage: /<command> [request|accept|give|get|reload|list]
     aliases: [pass, psp]
 
 permissions:
