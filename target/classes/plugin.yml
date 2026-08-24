@@ -1,5 +1,5 @@
 name: PassportManager
-version: '2.0'
+version: '3.0'
 main: ru.florestdev.passportManager.PassportManager
 api-version: '1.21'
 prefix: PassportManager
